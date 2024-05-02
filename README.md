@@ -7,6 +7,4 @@ Light field salient object detection (LF SOD) has recently received increasing a
 ## Results
 * Light field saliency maps of HFUT, DUTLF, and LFSD datasets can be downloaded from [here](https://pan.baidu.com/s/1QvbKM_t2SMaQKL6sh5HqXw) [code: wtz3]  
 
-* The saliency results can be evaluated by using the tool in [Matlab](http://dpfan.net/d3netbenchmark/)
-
 * Pre-trained model weights from [here](https://pan.baidu.com/s/1Lk-rxJo6swf3sjW2t6nf5Q) [code: zo14]
