@@ -32,5 +32,4 @@ Please consider citing our work if you use this repository in your research.
   year={2024},
   publisher={ACM New York, NY}
 }
-  }
 ```
